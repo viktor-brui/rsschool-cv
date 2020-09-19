@@ -8,7 +8,7 @@
 - Nationality: `Belorussian`
 - Family status: `Married`
 - Children: `Not`
-- driving license: `В`
+- Driving license: `В`
 
 ---
 
